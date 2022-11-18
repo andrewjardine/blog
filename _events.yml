@@ -2,6 +2,11 @@
 # "date_formatted" attribute is optional if you want to control the format/look of "date" on hf.co
 #                                             (e.g. specifying event date range like Jan 24 to Feb 7, 2022)
 
+- name: Building AI Applications with Transformers
+  link: https://www.torontomachinelearning.com/
+  date: Nov 23, 2022
+  description: Join Andrew Jardine and Rajiv Shah from the Hugging Face team at the Toronto Machine Learning Summit (TMLS) from a virtual workshop on how to use Transfromers to build applicatoins.
+
 - name: NLP with Transformers Reading Group
   link: https://discord.com/events/879548962464493619/1039565337420648458
   date: Nov 17, 2022
